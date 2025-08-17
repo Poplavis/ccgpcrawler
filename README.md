@@ -1,6 +1,8 @@
 # ccgpcrawler
 A python crawler for ccgp site.
+
 Due to legal issues, only the implementation plan is explained here.
+
 由于爬虫涉及法律问题，这里仅对实现方案做简单解释。
 
 ## 使用python框架
